@@ -8,6 +8,8 @@ export default function App() {
 
   const time = Time()
  
+
+  
   return (
       <S.Wrapper>
         <S.Clock>
