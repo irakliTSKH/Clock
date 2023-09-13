@@ -7,9 +7,7 @@ export default function App() {
 
 
   const time = Time()
-  console.log(time)
-
-
+ 
   return (
       <S.Wrapper>
         <S.Clock>

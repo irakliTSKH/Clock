@@ -30,6 +30,7 @@ export const HourHand = styled.div<{rotation: number}>`
         background-color: yellow;
         position: absolute;
         bottom: 0;
+        transform: translate(-50%)
 
     }
 `
